@@ -1,0 +1,15 @@
+E:\Code\C# practice\Computer network\final.2\final.2\bin\Debug\final.2.exe.config
+E:\Code\C# practice\Computer network\final.2\final.2\bin\Debug\final.2.exe
+E:\Code\C# practice\Computer network\final.2\final.2\bin\Debug\final.2.pdb
+E:\Code\C# practice\Computer network\final.2\final.2\bin\Debug\MetroFramework.Design.dll
+E:\Code\C# practice\Computer network\final.2\final.2\bin\Debug\MetroFramework.dll
+E:\Code\C# practice\Computer network\final.2\final.2\bin\Debug\MetroFramework.Fonts.dll
+E:\Code\C# practice\Computer network\final.2\final.2\obj\Debug\final._2.Form1.resources
+E:\Code\C# practice\Computer network\final.2\final.2\obj\Debug\final._2.Properties.Resources.resources
+E:\Code\C# practice\Computer network\final.2\final.2\obj\Debug\final.2.csproj.GenerateResource.Cache
+E:\Code\C# practice\Computer network\final.2\final.2\obj\Debug\final.2.exe
+E:\Code\C# practice\Computer network\final.2\final.2\obj\Debug\final.2.pdb
+E:\Code\C# practice\Computer network\final.2\final.2\obj\Debug\final.2.csprojResolveAssemblyReference.cache
+E:\Code\C# practice\Computer network\TCP Client\final.2\final.2\bin\Debug\final.2.exe.config
+E:\Code\C# practice\Computer network\TCP Client\final.2\final.2\obj\Debug\final.2.exe
+E:\Code\C# practice\Computer network\TCP Client\final.2\final.2\obj\Debug\final.2.pdb
